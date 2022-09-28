@@ -1,4 +1,4 @@
-# CULT Education Games Microservice
+# CULT & RVLT Donations Microservice
 
 [cultdonations.org](https://cultdonations.org) is a place where people can register their wallet address and their linkedin or facebook profile link. CULT OGs can check if the owner of the linkedin or facebook profile is actively and consistently providing education to facebook friends or linkedin contacts around the CULTDAO. If he does, chances are high that donators will donate to this wallet.
 
@@ -46,7 +46,7 @@ Everyone is invited to support the emergence of manifold architectures of freedo
 I added the cycle keyword in some commitmessages - see evidencelink.
 
 ### Evidence Link
-https://github.com/cultfamily-on-github/cult-education-games-microservice/commits/main
+https://github.com/cultfamily-on-github/cult-donations-microservice/commits/main
 
 ### Worth
 0.25 WETH
@@ -54,6 +54,6 @@ https://github.com/cultfamily-on-github/cult-education-games-microservice/commit
 0x9E972a43B3B8D68cD70930697E16429E47E88151
 
 ### Transaction of this Proposal
-https://polygonscan.com/tx/0x75de42bddd54f562cc2a4360085d36ab546f73b249895ddebc7124f15f61cc85
+
 
 
