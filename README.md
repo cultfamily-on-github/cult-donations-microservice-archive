@@ -34,7 +34,7 @@ Please contribute via pull request.
 ## Learnings & Remarks Along This Journey
 
 
-## Act of Revolt Proposal
+## Act of Revolt Proposal (currently just a template here)
 
 ### Name
 
@@ -42,6 +42,7 @@ Please contribute via pull request.
 https://twitter.com/Peer2peerE
 
 ### Description
+
 Everyone is invited to support the emergence of manifold architectures of freedom by contributing to the code which can be found here: https://github.com/cultfamily-on-github/cult-donations-microservice ...
 I added the cycle keyword in some commitmessages - see evidencelink.
 
