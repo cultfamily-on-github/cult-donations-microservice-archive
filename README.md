@@ -1,10 +1,10 @@
 # CULT & RVLT Donations Microservice
 
-[cultdonations.org](https://cultdonations.org) is a place where people can register their wallet address and their linkedin or facebook profile link. CULT OGs can check if the owner of the linkedin or facebook profile is actively and consistently providing education to facebook friends or linkedin contacts around the CULTDAO. If he does, chances are high that donators will donate to this wallet.
+[cultdonations.org](https://cultdonations.org) (under construction) is a place where people can register their wallet address and their linkedin or facebook profile link. CULT OGs can check if the owner of the linkedin or facebook profile is actively and consistently providing education to facebook friends or linkedin contacts around the CULTDAO. If he does, chances are high that donators will donate to this wallet.
 
-To incentivice this game for donators their donations are listed on [cultdonations.org](https://cultdonations.org) which will again inspire big wallets to donate to those who donate consistently to newcomers.
+To incentivice this game for donators their donations are listed on [cultdonations.org](https://cultdonations.org) (under construction) which will again inspire big wallets to donate to those who donate consistently to newcomers.
 
-This mechanism shall rapidly increase the amount of CULT & RVLT holders and at the same time support Peer 2 Peer Education for newcomers around topics like self hostet wallets, decentralization, CULTDAO etc.
+This mechanism shall rapidly increase the amount of CULT & RVLT holders and at the same time support Peer 2 Peer Education or Peer 2 Many Peers Education for newcomers around topics like self hostet wallets, decentralization, CULTDAO etc.
 
 Our power is massive when we collaborate. 
 
