@@ -1,16 +1,43 @@
 # CULT & RVLT Donations Microservice
 
-[cultdonations.org](https://cultdonations.org) (under construction) is a place where people can register their wallet address and their linkedin or facebook profile link. CULT OGs can check if the owner of the linkedin or facebook profile is actively and consistently providing education to facebook friends or linkedin contacts around the CULTDAO. If he does, chances are high that donators will donate to this wallet.
+People who create value shall be rewarded. 
 
-To incentivice this game for donators their donations are listed on [cultdonations.org](https://cultdonations.org) (under construction) which will again inspire big wallets to donate to those who donate reasonably to newcomers. On the long run some big money might also come from [gitcoin grants](https://gitcoin.co/grants). One goal of the CULT & RVLT Donations Microservice is to make [gitcoin grants](https://gitcoin.co/grants) and [quadratic funding](https://www.youtube.com/watch?v=hEHv-dE4xl8) much more accessible for newcomers who want to add value / public goods. 
+This microservice represents a system where people who create value are rewarded via direct donations.  
 
-This mechanism shall rapidly increase the amount of CULT & RVLT holders and at the same time support Peer 2 Peer Education or Peer 2 Many Peers Education for newcomers around topics like self hostet wallets, decentralization, CULTDAO etc.
+People who donate to others are also rewarded as their generosity is also a value within the CULT Donations System.
+
+People can create value by: 
+1. Providing Education Services like Online Coaching Videos around topics like decentralization, self hosted wallets etc.
+2. Programming corresponding services
+3. ... 
+
+
+## Goals
+1. Incentivize value creation   
+2. Increase number of CULT & RVLT holders
+
+## How it Works
+
+Whenever someone perceives the work results of someone else as valuable, he is invited to donate directly to the one who created the valuable work results.  
+
+Whenever someone perceives a donation as valuable and reasonable, he is invited to donate to the one who triggered the donation. 
+
+[cultdonations.org](https://cultdonations.org) (under construction) is a place where people can register their wallet address, their linkedin or facebook profile link and their work results to become potential donation receivers. 
+
+Potential donators can check if the owner of the linkedin or facebook profile is actively and consistently providing value for the CULT - e.g. by educating facebook friends or linkedin contacts around the CULTDAO... - If he does, chances are high that donators will donate to this wallet.
+
+To incentivice this game for donators their donations are listed on [cultdonations.org](https://cultdonations.org) (under construction) as acts of generosity which will again inspire big wallets to donate to those who donate reasonably to other value creators.   
+
+## GitCoin & Quadratic Funding
+On the long run some big money might also come from [gitcoin grants](https://gitcoin.co/grants). One goal of the CULT & RVLT Donations Microservice is to make [gitcoin grants](https://gitcoin.co/grants) and [quadratic funding](https://www.youtube.com/watch?v=hEHv-dE4xl8) much more accessible for newcomers who want to add value / public goods. 
 
 Our power is massive when we collaborate. 
 
+## Infos for Programmers
+
 In order to strengthen resilience, scalability and technological freedom for contributors, we establish a microservices architecture. 
 
-Programmers might contribute and explore and improve architectures of freedom.
+You might contribute to explore and improve architectures of freedom.
 
 ## Status
 First Drafts & Idea Collection
