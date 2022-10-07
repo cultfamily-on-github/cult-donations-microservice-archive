@@ -7,9 +7,12 @@ This microservice represents a system where people who create value are rewarded
 People who donate to others are also rewarded as their generosity is also a value within the CULT Donations System.
 
 People can create value by: 
-1. Providing Education Services like Online Coaching Videos around topics like decentralization, self hosted wallets etc.
-2. Programming corresponding services
-3. ... 
+1. Providing Education Services like Online Coaching Videos around topics like decentralization, self hosted wallets etc.  
+2. Programming corresponding services  
+3. Donating to people who deserve it  
+
+Reminder: Create Diagram to describe the incentive structure in detail.
+
 
 
 ## Goals
