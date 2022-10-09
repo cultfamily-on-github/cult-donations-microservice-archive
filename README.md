@@ -11,7 +11,7 @@ People can create value by:
 2. Programming corresponding services  
 3. Donating to people who deserve it  
 
-Reminder: Create Diagram to describe the incentive structure in detail.
+Reminder: Create Diagram to describe the incentive structure and with that the circular funding approach in detail.
 
 
 
